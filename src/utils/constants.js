@@ -17,3 +17,5 @@ export const USER_ICON =
   "https://www.iconpacks.net/icons/2/free-user-icon-3296-thumb.png";
 
 export const YOUTUBE_RESULTS = "https://www.youtube.com/results?search_query=";
+
+export const OFFSET_LIVE_CHAT = 30;
